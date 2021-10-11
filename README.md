@@ -1,6 +1,6 @@
 CS210Portfolio
 
-This folder contains my three CS 210 projects.
+This folder contains my three CS 210 projects, primarily in C++, with one project having both C++ and Python.
 
 CLOCK APP: 
 - The goal of this project was to be able to write a C++ program to display a 12 and 24 hour clock to the screen and allow the user to add hours, minutes,
